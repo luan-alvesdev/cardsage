@@ -5,8 +5,8 @@
 ### Telas de Login & lista de cartões. 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://raw.githubusercontent.com/luan-alvesdev/cardsage/main/assets/Captura_de_Tela_2024-06-26_as_16.27.47.png" alt="Tela login" width="45%">
-  <img src="https://raw.githubusercontent.com/luan-alvesdev/cardsage/main/assets/Captura_de_Tela_2024-06-26_as_16.23.14.png" alt="Tela lista de cards" width="45%">
+  <img src="https://raw.githubusercontent.com/luan-alvesdev/cardsage/refs/heads/main/assets/tela-login.png" alt="Tela login" width="45%">
+  <img src="https://raw.githubusercontent.com/luan-alvesdev/cardsage/refs/heads/main/assets/tela-cards.png" alt="Tela lista de cards" width="45%">
 </div>
 
 ## Descrição
