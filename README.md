@@ -11,7 +11,7 @@
 
 ## Descrição
 
-Web Sage é uma extensão do Chrome que permite adicionar páginas da web a uma lista de cartões personalizados. Cada cartão representa uma página adicionada, funcionando como uma lista de favoritos do navegador, mas com funcionalidades aprimoradas.
+Card Sage é uma extensão do Chrome que permite adicionar páginas da web a uma lista de cartões personalizados. Cada cartão representa uma página adicionada, funcionando como uma lista de favoritos do navegador, mas com funcionalidades aprimoradas.
 
 Ao adicionar uma página, um cartão é criado com um resumo da página, um título e tags relacionadas ao conteúdo principal. Isso permite que os usuários organizem e acessem suas páginas favoritas de maneira mais eficiente, clicando no link do cartão para abrir a página correspondente. A versão atual da extensão funciona somente em português. 
 
